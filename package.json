@@ -1,0 +1,27 @@
+{
+  "name": "team-name",
+  "version": "1.0.0",
+  "description": "getting random team name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uttammgr/team-name.git"
+  },
+  "keywords": [
+    "random",
+    "name",
+    "generate"
+  ],
+  "author": "Uttam Thapa <uttammoagar@gmail.com> (http://uttam-thapa.com.np/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Uttammgr/team-name/issues"
+  },
+  "homepage": "https://github.com/Uttammgr/team-name#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
